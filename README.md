@@ -1,4 +1,4 @@
-# Projeto mudi
+# MUDI
 Projeto de vendas entre usuários desenvolvido em Java, Spring MVC, Thymeleaf, Boostrap 5 e MariaDB.
 
 Olá, para o projeto funcionar sem nenhum tipo de problema, recomendo seguir os passos à seguir:
